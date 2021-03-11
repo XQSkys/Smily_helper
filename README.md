@@ -12,7 +12,7 @@ now in short:
     the fouth bar shows the costum color
     the number of the last bar for dark or light the color with left or right click on number
     Have fun!
-    now V 1.7.1 is online with many bug fixes
+    now V 1.7.4 is online with many bug fixes
     maybe i add some features at weekend but i am pleased with this
     
     you need https://www.java.com/ to use this software.
