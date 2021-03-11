@@ -16,4 +16,5 @@ now in short:
     maybe i add some features at weekend but i am pleased with this
     
     you need https://www.java.com/ to use this software.
+    and https://processing.org/download/ for change this *.pde source code.
     
