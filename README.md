@@ -14,3 +14,6 @@ now in short:
     Have fun!
     now V 1.7.1 is online with many bug fixes
     maybe i add some features at weekend but i am pleased with this
+    
+    you need https://www.java.com/ to use this software.
+    
