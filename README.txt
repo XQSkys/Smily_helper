@@ -1,4 +1,9 @@
-now in short:
+The Main version no support save Pictures to txt
+The Forks a interdraw for a messenger draw tool
+And the TxTMovie Project aming a Txt Based movie format(similar a txt interpreter making gif )
+
+
+
     Smily_Helper is LICENSE:
 MIT LICENSE
     
