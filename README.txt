@@ -1,4 +1,20 @@
-now in short:
+
+Smily_Helpe2r_V_0_2_4_0
+Experimental version uses only txt for dwawing
+but save png aswell
+very buggy
+klick on +/-
+then draw
+then right klick on Datai
+then right click on frame to go back and re draw
+don support missing pictures in frame line
+
+
+
+
+
+
+
     Smily_Helper is LICENSE:
 MIT LICENSE
     
